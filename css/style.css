@@ -1,4 +1,4 @@
-.container{
+.contain{
     background: url(../images/bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
@@ -14,4 +14,44 @@
     color: white;
     margin-top: 15%;
     padding-left: 50px;
+}
+
+.tcenter{
+    padding-top: 10px;
+    height: auto;
+    text-align: center;
+    background-color: black;
+}
+
+.tcenter>div>h4>a{
+    color:crimson;
+    text-decoration: none;
+}
+
+.tcenter>div>h4>a:hover{
+    color: rgb(241, 93, 123);
+}
+
+#lmbg{
+    width: 100%;
+    height: 300px;
+}
+
+.cont{
+    /* background-color: rgb(167, 167, 167); */
+}
+
+.fimage{
+    width: 70%;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.footer{
+    background: black;
+    color: crimson;
+}
+
+.footer>.columns>p{
+    text-align: center;
 }
