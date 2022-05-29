@@ -55,3 +55,7 @@
 .footer>.columns>p{
     text-align: center;
 }
+
+.marl>p{
+    padding-right: 5px;
+}
