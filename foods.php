@@ -33,8 +33,8 @@
         </div>
         <div class="row">
             <div class="twelve columns" style="background-color: black;">
-                <img src="./images/lmbg.webp" alt="" id="lmbg">
-                <h2 style="text-align: center; color:crimson;">Landmarks</h2>
+                <img src="./images/foodbg.jpg" alt="" id="lmbg">
+                <h2 style="text-align: center; color:crimson;">Foods and Sweets</h2>
             </div>
         </div>
         <?php
