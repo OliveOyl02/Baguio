@@ -39,7 +39,44 @@
     </landmarks>
 
     <cultures>
-
+        <culture>
+            <name>Language</name>
+            <image>./images/culture2.jpg</image>
+            <desc>
+                The languages commonly spoken in Baguio are Ibaloi, Kankana-ey and Ifugao, as well as Ilocano, Pangasinan and Kapampangan. Filipino and English are also understood by many inhabitants within and around the city.
+            </desc>
+        </culture>
+        <culture>
+            <name>Clothing (Igorot traditional clothing)</name>
+            <image>./images/culture1.webp</image>
+            <desc>
+            The Igorot tribes are the indigenous tribes located in the Cordillera Mountains. 
+            The term igorot was coined after the old Tagalog word which means “people from the mountains”. 
+            The male traditional clothing of the Igorots is called a “Bahag”. 
+            The primary purpose of the bahag is to cover the male private part. 
+            The female traditional clothing of the Igorots are generally called “Tapis”. 
+            The way it is worn is being wrapped around the waist. In ancient times, 
+            the Igorot women did not wear upper garments but were still highly respected by the Igorot men. 
+            It’s only recently that they have to wear upper clothing.
+            </desc>
+        </culture>
+        <culture>
+            <name>Vocal Music (Hudhud)</name>
+            <image>./images/culture3.jpg</image>
+            <desc>
+                The Hudhud consists of narrative chants traditionally performed by the Ifugao community, which is well known for its rice terraces extending over the highlands of the northern island of the Philippine archipelago. It is practised during the rice sowing season, at harvest time and at funeral wakes and rituals.
+                Thought to have originated before the seventh century, the Hudhud comprises more than 200 chants, each divided into 40 episodes. A complete recitation may last several days.
+            </desc>
+        </culture>
+        <culture>
+            <name>Folk Song (Salidumay)</name>
+            <image>./images/culture4.jpg</image>
+            <desc>
+                Salidumay is an indigenous folk song associated with the Igorot and Kalinga natives of the Cordillera Mountains in the northern part of the Philippines.
+                It is traditionally not sung in Tagalog; however, in the popular modern interpretation by Filipina singer Grace Nono, the lyrics are translated into Tagalog.
+                Among the Itneg people, salidumay is the response song of young women to the kalkalimusta songs of men during the weaving season. The salidumay are sweet melodies and expressions of gratitude. Serving as indicators of acceptance or rejection, the songs play an important role in the lives of young people of courtship age.
+            </desc>
+        </culture>
     </cultures>
 
     <foods>
