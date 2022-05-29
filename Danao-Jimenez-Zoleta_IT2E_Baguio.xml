@@ -80,7 +80,32 @@
     </cultures>
 
     <foods>
+        <food>
+            <name>Peanut brittle and Choco Flakes</name>
+            <image>./images/food1.jpg</image>
+            <desc>Typical souvenirs travelers buy in bundles are Peanut brittles and Choco flakes which are easily found everywhere. It is packaged into a plastic jar, mostly with yellow lids. Peanut Brittle which is comprised of peanut chunks in caramelized sugar is hard and brittle; hence the name. Meanwhile, Choco flakes are cornflakes covered in chocolate is another crowd favorite. These two delicacies go hand in hand in keeping you from leaving the city of pines.</desc>
+        </food>
+        <food>
+            <name>Strawberry Wine</name>
+            <image>./images/food2.jpg</image>
+            <desc>Filipinos are known heavy drinkers. In every celebration, anywhere in the Philippines, they never miss a chance in bringing out their treasured alcohol for everyone to share. Clearly, Baguio is no exception. As Baguio is known for strawberries, of course they would have an alcohol that has their pride embossed on it. While it has a slightly lower alcohol content than most wines, don’t underestimate its abilities.</desc>
+        </food>
+        <food>
+            <name>Sundo’t Kulangot</name>
+            <image>./images/food3.jfif</image>
+            <desc>Filipino Kids from the 90s will definitely recommend you this nostalgic Baguio goodie. Often sold in packs, this bundle of joy is made to try for every sweet-tooth. Packed inside tiny wooden shells, the combination of sticky rice and brown sugar created this appetizing treat. Its savory taste might even make you forget to ask what its name is in English.</desc>
+        </food>
 
+        <food>
+            <name>Ube Jam</name>
+            <image>./images/food4.jpg</image>
+            <desc>Deserving of being mentioned on its own, purple yam or also known as “Ube” will blow your minds. The creamy taste of Ube can either be used as a spread or enjoyed alone like a dessert. The Good Shepherd Sisters – Mountain Maid Training Center sells one of the best Ube Jam in the city; its taste is superior among its rivals. The best part is not only you get to enjoy the perfection that is Ube but   when buying at Good Shepherd- Mountain Maid Training Center, proceeds of their sales support the education of 370 college working students, hire mothers whose husbands have no permanent employment and provide jobs to out of school youth who save up for their education.</desc>
+        </food>
+        <food>
+            <name>Strawberry Taho</name>
+            <image>./images/food5.jpeg</image>
+            <desc>As Baguio makes the most out of their most popular produce, Strawberry Taho is simply to die for. Among other delicacies, it is one of the most, if not the most, sought-after delicacy in the city. A hot Strawberry Taho is widely available along the streets of the city of pines. Its hot soft tofu mixed together with miniscule tapioca pearls, sweet caramelized brown sugar, and of course, chopped strawberries will keep you coming back for more. A trip to Baguio would be incomplete without indulging in this heaven-sent delicacy.</desc>
+        </food>
     </foods>
 
     <festivals>
