@@ -109,7 +109,31 @@
     </foods>
 
     <festivals>
-
+        <festival>
+            <name>Silahis ng Pasko (December)</name>
+            <image>./images/festival1.jpg</image>
+            <desc>A series of Christmas activities of the City of Pines that focuses on the youth (which comprises about half of the city's population) with Christmas carol competitions called Himig ng Pasko, Share-a-Toy, sports tournaments and the like.</desc>
+        </festival>
+        <festival>
+            <name>Baguio Arts Festival (November to December)</name>
+            <image>./images/festival2.jpg</image>
+            <desc>An annual event organized by the Baguio Arts Guild started 1989, with the vision of making Baguio City a premier venue for art and artists. Featured are visual arts (photography, film, video, sculpture and art installations); performing arts (modern dances drama, music, poetry reading) and ethnic arts.</desc>
+        </festival>
+        <festival>
+            <name>Baguio Foundation Day (September)</name>
+            <image>./images/festival3.jfif</image>
+            <desc>The first day of the month commemorates the founding of Baguio as the Summer Capital of the Philippines, since it became a chartered city on September 01, 1909 with art exhibits, parades, programs, cultural shows and sister-city programs.</desc>
+        </festival>
+        <festival>
+            <name>Holy Week in Baguio (March or April, movable date)</name>
+            <image>./images/festival4.jpg</image>
+            <desc>The Roman Catholic Holy Week kicks off the Philippine Summer Vacation (SUMVAC - April to May) festivities with a large influx of visitors arriving to escape oppressive lowland temperatures to enjoy Baguio's cool climate. Civic and business groups line up a host of activities for the enjoyment of visitors of all ages.</desc>
+        </festival>
+        <festival>
+            <name>panagbenga Festival (February)</name>
+            <image>./images/festival5.jpg</image>
+            <desc>The Baguio Flower Festival started in 1994, is one of the largest and most successful festivals in the Philippines' Fiesta Calendar. Baguio, as the City of Flowers is in full bloom with a month-long series of events highlighted by the Parade of Floats and Band and Streetdancing Competitions held on the last weekend of February. Highlights include landscape competitions, art exhibits, golf tournaments, flea markets and simply a whole lot of fun activities for tourists and residents alike.</desc>    
+        </festival>
     </festivals>
 
     <mountains>
