@@ -137,7 +137,20 @@
     </festivals>
 
     <mountains>
-
+        <mountain>
+            <name>Mount Cabuyao</name>
+            <image>./images/mountain1.jpg</image>
+            <desc>
+                Mount Cabuyao (alternatively spelled as Mount Kabuyao) is a mountain in the Philippines. 
+                Its summit, rising to more than 2,000 metres (6,600 ft) above sea level, overlooks the city of Baguio. 
+                It is commonly mistaken as Mount Santo Tomas, a taller mountain just beside it. 
+                Due to its high elevation, several communications companies constructed relay stations and radars at the summit. 
+                A private observatory and AA radar station, once operated by the US Armed Forces stationed in the country, is also located here. 
+                A water catchment area was constructed to supply water to the City of Baguio and nearby towns. 
+                A small community of farmers live at the top of the mountain. 
+                A town hall and a school was built for them by the local government.
+            </desc>
+        </mountain>
     </mountains>
 
     <churches>
