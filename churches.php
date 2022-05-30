@@ -33,7 +33,7 @@
         </div>
         <div class="row">
             <div class="twelve columns" style="background-color: black;">
-                <img src="./images/lmbg.webp" alt="" id="lmbg">
+                <img src="./images/church1.jpg" alt="" id="lmbg">
                 <h2 style="text-align: center; color:crimson;">Churches</h2>
             </div>
         </div>
