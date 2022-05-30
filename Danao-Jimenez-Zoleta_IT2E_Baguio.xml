@@ -154,6 +154,42 @@
     </mountains>
 
     <churches>
+        <church>
+            <name>Our Lady of Atonement Cathedral</name>
+            <image>./images/church1.jpg</image>
+            <desc>
+                One of the country's' most beautiful architectural structures and easily Baguio City's most magnificent building, richly-decorated inside, it stands majestically atop Mount Mary Hill, with a wonderful bird's-eye view of Session Road and the city's landscape.
+                From Session Road it is accessible to pedestrians who ascend long concrete stairways of more than ahundred steps, although cars may enter the Cathedral grounds quite easily via access roads behind the Baguio Post Ofice building. If you do not feel like climbing more than a hundred steps to the Baguio Cathedral, an easy way to get there on foot from Session Road would be to climb the escalators at the CICM-owned Porta Vaga Shopping Mall, exiting at the top floor that leads to the Baguio Cathedral parking grounds. Since the Cathedral and Porta Vaga Mall share the same owner and general location, they also share the same parking lot, where a modest parking fee is charged for vehicles beyond the first hour.
+            </desc>
+        </church>
+        <church>
+            <name>Our Lady of Lordes Parish</name>
+            <image>./images/church2.jpg</image>
+            <desc>
+                Our Lady of Lourdes Parish located along Kisad Road, is a great  choice for people who are looking for a place away from the hustle and bustle of the city. With its recent renovation, Our Lady of Lourdes Parish offers a calming and peaceful ambience fit for meditation.
+            </desc>
+        </church>
+        <church>
+            <name>St. Joseph the Worker Church</name>
+            <image>./images/church3.jpg</image>
+            <desc>
+                Located a couple of meters away from Botanical Garden and Wright Park, St. Joseph the Worker Church is an immaculately designed church, its bright interiors and sunlight streaming through the stained glass of the church allows families to concentrate and cherish a moment with the Lord.
+            </desc>
+        </church>
+        <church>
+            <name>St. Vincent Parish</name>
+            <image>./images/church4.png</image>
+            <desc>
+                Saint Vincent Parish located along Naguilian Road is a tall church protruding in the city’s beautiful skyline. The church is just a short trip from the city proper and it is an ideal spot for families to come together and celebrate the mass.
+            </desc>
+        </church>
+        <church>
+            <name>Pink Sisters Convent</name>
+            <image>./images/church5.jfif</image>
+            <desc>
+                Pink Sisters Convent is tucked away from the urban noise and pollution thus you are left with a relaxing and calming ambience perfect for contemplation and prayer. The convent is surrounded with lovely greens that give that unique Baguio touch.
+            </desc>
+        </church>
 
     </churches>
 </Baguio>
